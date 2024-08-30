@@ -1,0 +1,26 @@
+table{
+    width:90%;
+    height:50%;
+    margin: auto;
+  }
+  body{
+    background-color:#f2f4f3;
+  }
+  img {
+    width: 250px;
+    height: 230px
+  }
+  td{
+    font-size:25x;
+    color:#201e50;
+    font-family:Rockwell
+  }
+  h1{
+    text-align: center;
+    font-size:90px
+  }
+  
+  h2{
+    font-size: 30px;
+    text-align: center;
+  }
